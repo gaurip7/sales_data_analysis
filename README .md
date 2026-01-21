@@ -27,3 +27,4 @@ This project analyzes sales data stored in a MySQL database using Python and SQL
 1. Create a MySQL database with sales and product tables
 2. Update database credentials in the notebook
 3. Run all cells sequentially in Jupyter Notebook
+
